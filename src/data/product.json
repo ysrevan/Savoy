@@ -1,0 +1,84 @@
+[
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-classic-chair-300x372.jpg",
+        "name":"Modern Shell Chair",
+        "price":"208.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-pendant-lamp-2-450x558.jpg",
+        "name":"Pendant Lamp",
+        "price":"89.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-lighthouse-lantern-450x558.jpg",
+        "name":"Lighthouse Lantern",
+        "price":"69.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-wall-clock-2-450x558.jpg",
+        "name":"Wall Clock",
+        "price":"79.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-hans-backpack-300x372.jpg",
+        "name":"Hans Backpack",
+        "price":"79.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-specs-sunglasses-450x558.jpg",
+        "name":"Specs Sunglasses",
+        "price":"109.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-press-coffee-maker-450x558.jpg",
+        "name":"Press Coffee Maker",
+        "price":"39.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-door-bumper-300x372.jpg",
+        "name":"Door Bumper",
+        "price":"29.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-laptop-bag-450x558.jpg",
+        "name":"Laptop Bag",
+        "price":"19.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-plain-glassbottle-680x844.jpg",
+        "name":"Plain Glass Bottle",
+        "price":"12.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-ceramic-tealight-holder-300x372.jpg",
+        "name":"Ceramic Tearlight Holder",
+        "price":"28.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-canvas-basket-300x372.jpg",
+        "name":"Canvas Basket",
+        "price":"39.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-amber-body-lotion-300x372.jpg",
+        "name":"Amber Body Lotion",
+        "price":"12.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-havana-sunglasses-450x558.jpg",
+        "name":"Havana Sunglasses",
+        "price":"89.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-henry-backpack-450x558.jpg",
+        "name":"Henry Backpack",
+        "price":"79.00"
+    },
+    {
+        "image":"https://savoy.nordicmade.com/wp-content/uploads/2015/08/product-striped-canvas-bag-450x558.jpg",
+        "name":"Striped Canvas Bag",
+        "price":"29.00"
+    }
+    
+]
+

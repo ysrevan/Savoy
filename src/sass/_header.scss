@@ -1,0 +1,48 @@
+header{
+    height: 70px;
+
+    .container{
+        height: 70px;
+        @include flex();
+
+       
+        img{
+            width: 150px;
+        }
+
+        nav{
+            width: 30%;
+            
+            ul{
+                 @include flex();
+            }
+
+            li{
+                @include style();
+
+                a{
+                    @include style();
+ 
+                }
+            }
+        }
+      
+        
+        .cart{
+            @include flex();
+
+            width: 10%;
+
+            .heart i{
+                margin-right: 10px;
+            }
+
+            a{
+                @include style()
+            }
+
+        }
+
+
+    }
+}

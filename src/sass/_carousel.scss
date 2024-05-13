@@ -1,0 +1,19 @@
+.carousel-text1 {
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: white; 
+
+    a{
+        @include carouselstyle();
+    }
+
+  }
+  .carousel-text2{
+    @include carouselposition();
+
+    a{
+        @include carouselstyle();
+    }
+  }

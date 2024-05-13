@@ -1,0 +1,25 @@
+@mixin flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+ }
+ @mixin style{
+     list-style: none;
+     text-decoration: none;
+     color: black;
+ }
+
+ @mixin carouselstyle{
+    font-size: 20px;
+    text-decoration: none;
+    color: #b8b3b3;
+ }
+
+ @mixin carouselposition{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color: #000; 
+ }

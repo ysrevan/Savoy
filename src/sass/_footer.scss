@@ -1,0 +1,35 @@
+footer{
+    background-color: #282828;
+    height: 90px;
+
+    .container{
+        @include flex();
+
+        nav{
+            width: 40%;
+            ul{
+                @include flex();
+               
+                li{
+                    @include style();
+                    color: #fff;
+
+                    a{
+                        @include style();
+                        color: #fff;
+                    }
+                }
+            }
+        }
+
+        .icon{
+            width: 10%;
+            @include flex();
+
+            i{
+                font-size: 20px;
+                color: #fff;
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+.card{
+    border: none !important;
+}
+.container{
+
+
+    .category{
+
+        @include flex();
+        nav{
+        
+            width: 50%;
+    
+            ul{
+                @include flex();
+    
+                li{
+                    @include style();
+    
+                    a{
+                        @include style();
+                        font-size: 20px;
+                        transition: .2s;
+                        color: #585555;
+                    }
+
+                    a:hover{
+                       color: orange;
+                    }
+                }
+            }
+        }
+
+
+        .filter{
+            width: 10%;
+            @include flex();
+
+            a{
+                @include style();
+                font-size: 20px;
+                color: #585555;
+            }
+        }
+    }
+  
+}
